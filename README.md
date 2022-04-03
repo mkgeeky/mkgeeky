@@ -10,6 +10,7 @@ A guy from Denmark who loves to code ❤️🧑‍💻.
 <a href="https://facebook.com/mkgeeky-108019408452002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="b" height="30" width="40" /></a>
 </p>
 
+[![mkgeeky's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkgeeky)](https://github.com/mkgeeky)
 
 <!--
 **mkgeeky/mkgeeky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
