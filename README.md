@@ -15,7 +15,7 @@ A guy from Denmark who loves to code ❤️🧑‍💻.
 [![mkgeeky's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mkgeeky&)](https://github.com/mkgeeky)
 
 ### Sponsor ❤️
-[Patreon](https://patreon.com/mkgeeky)
+[Github](https://github.com/sponsors/mkgeeky)
 <!--
 **mkgeeky/mkgeeky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
