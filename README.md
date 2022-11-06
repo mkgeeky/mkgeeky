@@ -8,6 +8,7 @@ A guy from Denmark who loves to code ❤️🧑‍💻.
 <p align="left">
 <a href="https://twitter.com/mkgeeky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="a" height="30" width="40" /></a>
 <a href="https://facebook.com/mkgeeky-108019408452002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="b" height="30" width="40" /></a>
+<a href="https://discord.gg/tv6ZQ7wzt7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="c" height="30" width="40" /></a>
 </p>
 
 [![mkgeeky's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkgeeky&show_icons=true&count_private=true)](https://github.com/mkgeeky)
