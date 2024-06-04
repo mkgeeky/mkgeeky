@@ -3,8 +3,8 @@
 ### Who is mkgeeky?
 A guy from Denmark who loves to code ❤️🧑‍💻.
 
-#### Main projects
-I have forked autodl-trackers and autodl-irssi (original by thebigmunch).<br />
+#### Main Projects
+I have forked [autodl-trackers](https://github.com/mkgeeky/autodl-trackers) and [autodl-irssi](https://github.com/mkgeeky/autodl-irssi) (original by thebigmunch).<br />
 My idea is to keep autodl-trackers up2date, as good as possible.<br />
 Also get autodl-irssi to work with my repo. But I'm not a perl expert :confused:
 
