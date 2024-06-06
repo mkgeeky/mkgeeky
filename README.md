@@ -4,9 +4,9 @@
 A guy from Denmark who loves to code ❤️🧑‍💻.
 
 #### Main Projects
-I have forked [autodl-trackers](https://github.com/mkgeeky/autodl-trackers) and [autodl-irssi](https://github.com/mkgeeky/autodl-irssi) (original by thebigmunch).<br />
-My idea is to keep autodl-trackers and autodl-irssi up2date, as good as possible.<br />
-But I'm not a perl expert :confused:, so if you want to help, please let me know 🙂
+* [autodl-trackers](https://github.com/mkgeeky/autodl-trackers) *(original by thebigmunch)*
+* [autodl-irssi](https://github.com/mkgeeky-autodl/autodl-irssi) *(original by thebigmunch)*
+* [autodl-trackers-updater](https://github.com/mkgeeky-autodl/autodl-trackers-updater)
 
 ### Contact
 📧 **github@mkgeeky.xyz**
