@@ -3,7 +3,7 @@
 ### Who is mkgeeky?
 A guy from Denmark who loves to code ❤️🧑‍💻.
 
-#### Main Projects
+### Main Projects
 * [autodl-trackers](https://github.com/mkgeeky/autodl-trackers) *(original by thebigmunch)*
 * [autodl-irssi](https://github.com/mkgeeky-autodl/autodl-irssi) *(original by thebigmunch)*
 * [autodl-trackers-updater](https://github.com/mkgeeky-autodl/autodl-trackers-updater)
