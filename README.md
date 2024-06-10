@@ -11,6 +11,8 @@ A guy from Denmark who loves to code ❤️🧑‍💻.
 ### Contact
 📧 **github@mkgeeky.xyz**
 
+IRC: ``#mkgeeky`` @ ``irc.p2p-network.net``
+
 [![mkgeeky's GitHub stats](https://github-readme-stats.vercel.app/api?username=mkgeeky&show_icons=true&count_private=true)](https://github.com/mkgeeky)
 [![mkgeeky's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mkgeeky&layout=compact)](https://github.com/mkgeeky)
 [![mkgeeky's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=mkgeeky&)](https://github.com/mkgeeky)
